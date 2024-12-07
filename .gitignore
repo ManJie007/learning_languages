@@ -1,0 +1,2 @@
+#忽略nvim 的backup文件
+*~
